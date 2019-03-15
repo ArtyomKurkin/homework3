@@ -99,6 +99,7 @@ public class Main {
         System.out.println("Second Exercise:");
         int[] arr = fourT.randGenerate(50,0,10);
         sixTask.timeArraySwitch(arr);
+        sixTask.timeArrayElseIf(arr);
 
 
 
